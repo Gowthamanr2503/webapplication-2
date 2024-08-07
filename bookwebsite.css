@@ -1,0 +1,291 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bag-image-first{
+    background-image: url('https://res.cloudinary.com/do1jbdg0b/image/upload/v1707379700/bg-image_jp16dz.jpg');
+    background-size: cover;
+}
+
+.image-logo {
+    width: 66px;
+    height: 57px;
+    font-size: 20px;
+    border-radius: 35px;
+}
+
+.logo-name {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.a-all-list-navbar{
+    color: white;
+    font-weight: bold ;
+}
+
+.a-all-list-navbar:hover{
+    background-color: black;
+    border-radius :20px;
+    padding-left: 50px;
+}
+
+.discover-button{
+    background-color: rgb(255, 153, 64);
+    border-style: none;
+    border-radius: 20px ;
+    height: 5vh;
+    width: 25vw;
+    color: white;
+    font-weight: bold;
+    font-family: 'roboto';
+}
+
+.meet-the-author{
+    color: white;
+    font-weight: bold;
+    font-family: 'roboto';
+    background-color: transparent;
+    border-style: none;
+}
+.meet-the-author:hover {
+    border-bottom: 4px;
+    border-top: 0px;
+    border-width: 4px;
+    border-style: double;
+    border-color: purple;
+    color: black;
+}
+.introduce-fst{
+    color: sandybrown;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'roboto';
+}
+
+.para-for-fst{
+    color: orangered;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.image-online-mobile{
+    height: 50vh;
+    width: 60vw;
+}
+
+.image-down-people{
+    height: 10vh;
+    width: 15vw;
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+    overflow-y:10px ;
+    border-radius: 100%;
+}
+
+.bg-down-people{
+    background-image: url('https://res.cloudinary.com/do1jbdg0b/image/upload/v1707386718/70ln81h7_ls4kpz.png');
+    background-size: cover;
+    border-top-left-radius: 20px;  
+    border-top-right-radius: 20px;  
+}
+
+.rating-stars{
+    height: 6vh;
+    width: 30vw;
+}
+
+.image-about-mobile{
+    margin-top: 40px;
+    height: 35vh;
+    width: 70vw;
+}
+
+.mordern-creative{
+    color:rgb(251, 178, 41);
+    font-family: 'claveat';
+}
+
+.bg-for-about-glance{
+    border-radius: 16px;
+    border-color: orange;
+    border-style: solid;
+    border-width: 2px;
+    margin: 20px;
+    height: 40vh;
+    padding: 10px;
+    padding-top: 10px ;
+}
+
+.button-glance{
+    font-family: 'roboto';
+    border-radius: 16px;
+    border-style: none;
+    background-color: rgb(193, 222, 232);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    color: rgb(90, 82, 82);
+    font-weight: bold;
+    text-align: start;
+    padding: 8px;
+}
+
+.button-glance:hover{
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+}
+
+.introduce-epage{
+    font-family: 'claveat';
+    font-weight: bold;
+}
+
+.quatation-box{
+    background-color: rgb(228, 245, 252);
+    border-radius: 7px;
+    height: fit-content;
+    margin-right: 26px;
+    padding: 30px;
+    font-weight: bold;
+}
+
+.image-winback-time{
+    height: 40vh;
+    width: 85vw;
+    background-size: cover;
+    border-radius: 20px;
+    margin-bottom: 15px;
+}
+
+.bg-author-about{
+    background-image: url('https://res.cloudinary.com/do1jbdg0b/image/upload/v1707394952/OIP_9_pkgsyl.jpg');
+    background-size: cover;
+    height: 80vh;
+    width: 90vw;
+    border-radius: 5px;
+    padding-top: 20px;
+}
+
+.image-of-author{
+    height: 30vh;
+    width: 40vw;
+    border-radius: 100%;
+    border-width: 6px;
+    border-style: solid;
+    border-color: orange;
+}
+
+.image-of-author:hover{
+    width: 45vw;
+    height:  35vh;
+
+}
+
+.bg-for-four-people{
+    background-image: url('https://res.cloudinary.com/do1jbdg0b/image/upload/v1707379700/bg-image_jp16dz.jpg');
+    height: 50vh;
+    width: 60vh;
+    background-size: cover;
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+
+.card-people-image{
+    background-color: orangered;
+    height: 25vh;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-right: 20vh;
+    margin-left: 20vh;
+}
+
+.separate-people-four{
+    height: 10vh;
+    width: 15vw;
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+    margin-top: 20px;
+    border-radius: 100%;
+}
+
+.name-all-four{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    font-family: 'roboto';
+}
+
+.four-duty-given{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    font-family: 'roboto';
+    font-weight: bold;
+}
+
+.contant-free-book{
+    background-image: url('https://res.cloudinary.com/do1jbdg0b/image/upload/a_hflip/a_vflip//v1707386587/OIP_5_y2xajg.jpg');
+    background-size: cover;
+    height: 50vh;
+}
+
+.for-the-free-book-box{
+    border-radius: 20px;
+    border-style: solid;
+    border-color: white;
+    height: 40vh;
+    width: 80vw;
+    background-color: white;
+    padding: 20px;
+}
+
+.btn-content-contact{
+    background-color: white;
+    border-radius: 20px;
+    border-style: solid;
+    margin-top: 40px;
+    margin-left: 20px;
+    opacity: 0.50;
+    border-color: grey;
+}
+
+.btn-content-contact:hover{
+    border-style: solid;
+    border-width: 3px;
+    border-color: orangered;
+    color: black;
+    width: 50vw;
+    font-family: 'Verdana, Geneva, Tahoma, sans-serif';
+    font-size: 20px;
+    padding: 6px;
+    opacity: 2;
+    text-align: center;
+    transition-delay: 80ms;
+}
+
+.discover-button-download{
+    background-color: rgb(255, 153, 64);
+    border-style: none;
+    border-radius: 20px ;
+    height: 5vh;
+    width: 30vw;
+    color: white;
+    font-weight: bold;
+    font-family: 'roboto';
+    opacity: 0.50;
+    
+}
+
+.discover-button-download:hover{
+    border-color: aqua;
+    border-style: groove;
+    border-width: 5px;
+    background-color: aqua;
+    color: black;
+    opacity: 2;
+    transform: rotate(6deg);
+
+}
